@@ -2,7 +2,7 @@
 
 Product engineer building across AI, finance, and learning. Based in Pune, India.
 
-[Portfolio](https://proud-finance-809023.framer.app) · [AI product & fintech résumé](https://framerusercontent.com/assets/KqjpIEZTsZintM4NxSq0o4zJ0.pdf) · [GenAI engineering résumé](https://framerusercontent.com/assets/X7afZZ1FB1UAaURAZWFfEpU7Gog.pdf)
+[Portfolio](https://shreyashsakhare.framer.website) · [AI product & fintech résumé](https://framerusercontent.com/assets/mRZhNz9GUq5ztKCo1PS0C9Yp34.pdf) · [GenAI engineering résumé](https://framerusercontent.com/assets/MTkJQmVzsEPTuBkeSdizsXbs6Q.pdf)
 
 I work from the user problem through the product workflow and the implementation. My recent work includes currency research, adaptive practice, internal operations, and checks around AI-assisted development.
 
