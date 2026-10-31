@@ -1,31 +1,36 @@
 # Shreyash Sakhare
 
-Product engineer building across AI, finance, and learning. Based in Pune, India.
+Product engineer building AI applications, automation systems, and finance tools. Based in Pune, India.
 
-[Portfolio](https://shreyashsakhare.framer.website) · [AI product & fintech résumé](https://framerusercontent.com/assets/mRZhNz9GUq5ztKCo1PS0C9Yp34.pdf) · [GenAI engineering résumé](https://framerusercontent.com/assets/MTkJQmVzsEPTuBkeSdizsXbs6Q.pdf)
+[Portfolio](https://shreyashsakhare.framer.website) · [Résumé](https://shreyashsakhare.framer.website/resume) · [Project index](PROJECTS.md) · [LinkedIn](https://www.linkedin.com/in/shreyash045/)
 
-I work from the user problem through the product workflow and the implementation. My recent work includes currency research, adaptive practice, internal operations, and checks around AI-assisted development.
+At FinTree Education, I built internal products and integrations used by staff and students. My work included n8n and Make automation, API integrations, student operations, LLM assessment workflows, and permission-aware AI access. My employment ran from October 2025 to 15 October 2026, first as a Product Engineer Trainee and then Product Engineer & Tech Lead.
 
-## Selected work
+## Automation and product delivery
 
-| Project | What I built | Status and evidence |
+| Work | My contribution | Where to verify |
 |---|---|---|
-| [FX Regime Lab](https://fxregimelab.com) | Currency research pipeline, regime presentation and outcome validation | Experimental public research. [Earlier pipeline](https://github.com/Shreyash3007/G10-FX-Regime-Detection-Framework); no claim of profitable forecasting. |
-| [Aegis](https://github.com/Shreyash3007/aegis) | CLI workflow checks, approval gates and recovery records for AI-assisted development | Open source. [Releases](https://github.com/Shreyash3007/aegis/releases). |
-| [Mentr / Metis Labs](https://metislabs.in) | Exam-practice product, learner workflows and product design | [Earlier NDA learner site](https://mentr.metislabs.in). The newer CFA Level I direction is in development. |
+| Admissions & onboarding | Automated order updates across 2-3 team sheets; later connected a central hub to Supabase, Resend onboarding emails and WATI contacts. Connected landing-page forms to Zoho leads. | [Case study and PRD](https://shreyashsakhare.framer.website/projects/fintree-onboarding). Internal employer source stays private. |
+| Staff operations & placements | Built staff and placements applications serving 6,100+ students; consolidated 6,000+ records. These historical figures describe the broader applications, not onboarding volume. | [Case study](https://shreyashsakhare.framer.website/projects/fintree-operations) · [Related public Moodle plugin](https://github.com/Shreyash3007/Placements_plugin). The plugin is not the complete internal platform. |
+| Challengers Pack 2.0 | Built LLM generation, fact-checking, repair, scoring, and human-review stages. | [Case study and PRD](https://shreyashsakhare.framer.website/projects/challengers-pack). Historical internal testing: 200 generated questions, 10 learners. |
+| AI Career Discovery | Built the backend for branching voice-first simulations across five finance career tracks. | [Case study](https://shreyashsakhare.framer.website/projects/finance-career-simulations). The overall product was in development when my contribution ended. |
 
-## Work at FinTree Education
+## Independent work and public code
 
-Previously Product Engineer & Tech Lead. I worked at FinTree from October 2025 to 15 October 2026, first as a trainee and then as tech lead.
+| Project | What it demonstrates | Access and status |
+|---|---|---|
+| [Aegis](https://github.com/Shreyash3007/aegis) | Workflow state, approval gates, validation receipts, checkpoints and recovery for AI-assisted development. | [Public code](https://github.com/Shreyash3007/aegis) · [Documentation](https://shreyash3007.github.io/aegis/) · [Case study](https://shreyashsakhare.framer.website/projects/aegis). |
+| [FX Regime Lab](https://fxregimelab.com) | Python currency-research pipelines, data checks, orchestration and outcome tracking. | [Case study](https://shreyashsakhare.framer.website/projects/fx-regime-lab) · [Earlier public pipeline](https://github.com/Shreyash3007/G10-FX-Regime-Detection-Framework). Experimental research; no validated trading-profit claim. |
+| Mentr | Product design, learner workflows and engineering for exam practice. | [Case study](https://shreyashsakhare.framer.website/projects/mentr) · [Earlier NDA demonstration](https://metislabs.in/demo/mentr). The next CFA Level I direction is in development. Metis Labs started in February 2026. Core source is private. |
 
-I built staff operations and placements applications, consolidated student records, and worked on lead workflows, permission-aware AI access, CFA assessment, and finance career simulations. These were employer products; their internal source code and operational data stay private.
+## Tools and education
 
-## What I work with
+- Automation: n8n, Make, REST APIs, Zoho CRM, WATI, Resend, Google Sheets/Workspace, Supabase.
+- Engineering: Python, TypeScript, React, Next.js, SQL, PostgreSQL, FastAPI, Flask, GitHub Actions, Prefect Cloud.
+- AI: LLM integration, prompts, generation and review pipelines, conversational interfaces, MCP tool access, permissions and audit logging.
 
-Python, TypeScript, React, Next.js, SQL, PostgreSQL, Supabase, APIs, and LLM workflows. I care about clear product decisions, useful interfaces, and checking what an AI system actually did.
+Third-year B.Tech student in Electrical Engineering at AISSMS Institute of Information Technology, Pune; expected graduation 2028. CFA Level I cleared.
 
-CFA Level I cleared. B.Tech in Electrical Engineering at AISSMS Institute of Information Technology, Pune (2024–2028).
+I’m interested in AI product, automation, fintech, and GenAI engineering roles.
 
-I’m interested in AI product and fintech roles, and GenAI engineering opportunities.
-
-[LinkedIn](https://www.linkedin.com/in/shreyash045/) · [Email](mailto:sakhareshreyash01@gmail.com)
+[Email](mailto:sakhareshreyash01@gmail.com) · [All public projects and learning work](PROJECTS.md)
