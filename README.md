@@ -4,7 +4,7 @@ Product engineer building AI applications, automation systems, and finance tools
 
 [Portfolio](https://shreyashsakhare.framer.website) · [Résumé](https://shreyashsakhare.framer.website/resume) · [Project index](PROJECTS.md) · [LinkedIn](https://www.linkedin.com/in/shreyash045/)
 
-At FinTree Education, I built internal products and integrations used by staff and students. My work included n8n and Make automation, API integrations, student operations, LLM assessment workflows, and permission-aware AI access. My employment ran from October 2025 to 15 October 2026, first as a Product Engineer Trainee and then Product Engineer & Tech Lead.
+At FinTree Education, I built internal products and integrations used by staff and students. My work included n8n and Make automation, API integrations, student operations, LLM assessment workflows, and permission-aware AI access. I worked there from 13 October 2025 to 15 October 2026: Product Engineer Trainee (Intern) from 13 October 2025 to 31 July 2026, then Product Engineer from 1 August to 15 October 2026.
 
 ## Automation and product delivery
 
